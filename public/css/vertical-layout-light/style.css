@@ -28635,7 +28635,7 @@ div.tagsinput span.tag a {
 
 .sidebar .nav:not(.sub-menu) > .nav-item > .nav-link[aria-expanded="true"] {
   border-radius: 8px 8px 0 0;
-  /* background: #3F97FF; */
+  background: #3F97FF;
   color: #fff;
 }
 
@@ -28648,7 +28648,7 @@ div.tagsinput span.tag a {
   margin-top: 0;
   list-style: none;
   padding: 0.25rem 0 0 3.07rem;
-  /* background: #3F97FF; */
+  /* color: #3F97FF; */
   padding-bottom: 12px;
 }
 
@@ -28667,7 +28667,7 @@ div.tagsinput span.tag a {
 }
 
 .sidebar .nav.sub-menu .nav-item .nav-link {
-  color: #fff;
+  color: #3F97FF;
   padding: 0.7rem 1rem;
   position: relative;
   font-size: 0.875rem;
@@ -28677,11 +28677,11 @@ div.tagsinput span.tag a {
 }
 
 .sidebar .nav.sub-menu .nav-item .nav-link:hover {
-  color: #ffffff;
+  color: #3F97FF;
 }
 
 .sidebar .nav.sub-menu .nav-item .nav-link.active {
-  color: #ffffff;
+  color: #3F97FF;
   background: transparent;
 }
 
